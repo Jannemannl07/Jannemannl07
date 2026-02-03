@@ -2,7 +2,7 @@
 - 👀 I’m interested in editing en HTML/CSS
 - 🌱 I’m currently learning CSS
 - 📫 How to reach me: u can dm me on discord: jannemannl2000
-- 😄 Pronouns: just a normal straigt dude
+- 😄 Pronouns: just a normal straight dude
 - ⚡ Fun fact: i like fries and a little bit of beer (never too much)
 
 <!---
